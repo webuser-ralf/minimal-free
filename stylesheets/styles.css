@@ -8,7 +8,7 @@ body {
 
 figure {
   margin-left: 0;
-  margin-bottom: 200px;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -195,7 +195,7 @@ footer {
   width:270px;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:100 px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
