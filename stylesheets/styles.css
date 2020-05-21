@@ -197,7 +197,8 @@ footer {
 
 /* ################ ANFANG Media Queries ################ */
 
-@media print, screen and (max-width: 960px) {
+/*@media print, screen and (max-width: 960px)*/
+@media print, screen and (max-width: 850px) {
 
   div.wrapper {
     width:auto;
