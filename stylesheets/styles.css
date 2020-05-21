@@ -26,6 +26,7 @@ h1 {
 }
 
 h2 {
+  font-size: 1.5em;
   color:#393939;
   font-weight: 500;
 }
@@ -215,9 +216,7 @@ footer {
 
   header {
     /*padding-right:320px;*/
-    margin: 0 auto;
-    margin-bottom: 1.250em;
-    border-bottom: 5px solid grey;
+    margin: 0 auto;   
   }
 
   section {
@@ -240,6 +239,10 @@ footer {
   header h1,
   header p {
     text-align: center; 
+  }
+  
+  h1, h2 {
+    font-size: 1.3em; 
   }
   
   img {
@@ -267,9 +270,13 @@ footer {
     word-wrap:normal;
   }
   
+  h1, h2 {
+    font-size: 1.2em; 
+  }
+  
   img {
     width: 60%;
-  }
+  }  
 }
 
 @media print, screen and (max-width: 480px) {
