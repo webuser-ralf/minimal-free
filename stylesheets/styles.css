@@ -21,7 +21,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size: 1.750em;
   font-weight: 500;
 }
 
@@ -45,7 +45,7 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size: 0.688em;
   color:#777;
   margin-top:-0.3em;
   display:block;
@@ -140,7 +140,7 @@ header li:last-child a {
 
 header ul a {
   line-height:1;
-  font-size:11px;
+  font-size: 0.688em;
   color:#999;
   display:block;
   text-align:center;
@@ -167,7 +167,7 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-size:14px;
+  font-size: 0.875em;
   display:block;
   color:#222;
 }
@@ -179,7 +179,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size: 0.688em;
 }
 
 hr {
@@ -216,7 +216,7 @@ footer {
   header {
     /*padding-right:320px;*/
     margin: 0 auto;
-    padding-bottom: 20px;
+    margin-bottom: 1.250em;
     border-bottom: 5px solid grey;
   }
 
@@ -252,6 +252,7 @@ footer {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
+    font-size: 85%;
   }
 
   header {
@@ -274,6 +275,7 @@ footer {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
+    font-size: 70%;
   }
 
   header ul {
