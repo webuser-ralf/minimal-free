@@ -234,8 +234,7 @@ footer {
   }
   
   img {
-    max-width: 50%;
-    text-align: center;
+    width: 50%;    
   }
 }
 
