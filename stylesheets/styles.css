@@ -252,7 +252,7 @@ footer {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
-    font-size: 85%;
+    font-size: 90%;
   }
 
   header {
@@ -275,7 +275,7 @@ footer {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
-    font-size: 70%;
+    font-size: 85%;
   }
 
   header ul {
