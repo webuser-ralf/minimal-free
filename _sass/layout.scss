@@ -7,6 +7,14 @@ body {
   font-weight:400;
 }
 
+.wrapper {
+  width: 100%;
+  /*max-width:860px;*/
+  max-width: 58em;
+  margin:0 auto;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -54,13 +62,6 @@ a small {
 
 a:hover small {
   color:#777;
-}
-
-.wrapper {
-  width: 100%;
-  /*max-width:860px;*/
-  max-width: 55em;
-  margin:0 auto;
 }
 
 blockquote {
