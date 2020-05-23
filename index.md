@@ -24,3 +24,27 @@ Der Schutz durch den Fingerabdruckscanner reicht bei den Goldengate-Sticks deutl
 Fazit
 
 Die Golden­gate Security Keys G310 und G320 haben uns positiv überrascht. Während die Level-­2-Zertifizierung im Alltag lediglich für ein sicheres Gefühl sorgt, bietet der konsequente Einsatz des Fingerabdruck-Scanners ein echtes Plus an Schutz. Auch die gute Verarbeitungsqualität hat uns überzeugt. 
+
+* <span>Entsorgung</span>
+* Tätigkeit als Chemiefachkraft und Fahrer:
+  * Klassifizierung, Sortierung und Verpackung von Sonder- sowie Problemabfällen im Innen- und Außendienst gemäß den einschlägigen GGVS-Regelwerken und den Vorgaben der Entsorgungsanlagen
+  * Selbstständige Auftragsabwicklung und Zusammenstellung der Begleitpapiere für die Transporttouren
+  * Transport von Sonderabfällen und Chemierückständen als Stückgut und in Tanks mit Solofahrzeugen, also ohne Anhänger oder Sattelauflieger
+ 
+* <span>Produktion</span>
+* Einsatz als angelernte Lagerkraft auf der Lkw-Waage:
+  * Annahme und Verwiegung verschiedener Rohstoffe
+  * Versand von Metall-Legierungen und Fertigprodukten
+  * Erstellen, Bearbeiten und Buchen der Wareneingangs- und Transportpapiere
+  * Verladetätigkeiten mit Gabelstaplern
+  
+* <span>Soziale Einrichtung</span>
+* Renovierungstätigkeiten, leichte Instandsetzungsarbeiten sowie Tätigkeiten im Lagerbereich:
+  * Be- und Entladen von Fahrzeugen
+  * Transportieren von Waren zwischen Lager und Verkauf
+  * Lager- und transportfähiges Verpacken von zerlegten Schränken auf Paletten
+  * Reinigen verschmutzter Möbel, weißer Ware und von Kleinteilen
+  
+* <span>Chemische Analytik</span>
+* Als gelernter Chemielaborant arbeitete ich lange Zeit im Labor.
+
