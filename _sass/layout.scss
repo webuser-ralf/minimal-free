@@ -235,7 +235,7 @@ ul li li {
 
 /* ################ ANFANG Media Queries ################ */
 
-/*@media print, screen and (max-width: 960px)*/
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -287,14 +287,16 @@ ul li li {
   }
 }
 
+@media print, screen and (max-width: 960px) {
+  div.wrapper {
+    width: 80%; 
+  }
+}
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
     font-size: 90%;
-  }
-  
-  div.wrapper {
-    width: 80%;    
   }
   
   header {
@@ -321,6 +323,10 @@ ul li li {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;    
+  }
+  
+  div.wrapper {
+    width: 100%;    
   }
 
   header ul {
