@@ -239,7 +239,7 @@ ul li li {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    width: 65%;
+    width: 60%;
     margin: 0 auto;
   }
 
@@ -297,6 +297,10 @@ ul li li {
   body {
     word-wrap:break-word;
     font-size: 90%;
+  }
+  
+  div.wrapper {
+    width: 100%; 
   }
   
   header {
