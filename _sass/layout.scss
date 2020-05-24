@@ -245,7 +245,7 @@ ul li li {
 
   div.wrapper {
     /*width: 65%;*/
-    width: 40em;
+    width: 37em;
     margin: 0 auto;
   }
 
@@ -293,11 +293,7 @@ ul li li {
   }
 }
 
-@media print, screen and (max-width: 820px) {
-  div.wrapper {
-    width: 70%; 
-  }
-}
+
 
 @media print, screen and (max-width: 720px) {
   body {
@@ -306,7 +302,7 @@ ul li li {
   }
   
   div.wrapper {
-    width: 80%; 
+    /*width: 80%;*/ 
   }
   
   header {
@@ -336,7 +332,7 @@ ul li li {
   }
   
    div.wrapper {
-    width: 90%; 
+    /*width: 90%;*/ 
   }
   
   header ul {
