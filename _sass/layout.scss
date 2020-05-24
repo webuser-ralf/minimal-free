@@ -10,8 +10,16 @@ body {
 .wrapper {
   width: 100%;
   /*max-width:860px;*/
-  max-width: 59em;
+  max-width: 64em;
   margin:0 auto;
+}
+
+header {
+  /*width:320px;*/
+  width: 20em;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
@@ -120,14 +128,6 @@ th {
 img {
   width:100%;
   margin-left: 0;
-}
-
-header {
-  /*width:320px;*/
-  width: 20em;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 header ul {
