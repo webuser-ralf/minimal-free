@@ -241,11 +241,11 @@ ul li li {
 /* ################ ANFANG Media Queries ################ */
 
 
-@media print, screen and (max-width: 60em) {
+@media print, screen and (max-width: 960px) {
 
   div.wrapper {
     /*width: 65%;*/
-    width: 40em;
+    width: 50em;
     margin: 0 auto;
   }
 
@@ -293,13 +293,13 @@ ul li li {
   }
 }
 
-@media print, screen and (max-width: 51.250em) {
+@media print, screen and (max-width: 820px) {
   div.wrapper {
     width: 70%; 
   }
 }
 
-@media print, screen and (max-width: 45em) {
+@media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
     font-size: 90%;
@@ -330,7 +330,7 @@ ul li li {
   }  
 }
 
-@media print, screen and (max-width: 30em) {
+@media print, screen and (max-width: 480px) {
   body {
     padding:15px;    
   }
